@@ -112,19 +112,16 @@
 
 - **BSc in Electrical & Electronic Engineering**  
   Rajshahi University of Engineering & Technology (RUET) | 2019–2024  
-  CGPA: **3.51/4.00** | Final Year CGPA: **3.80/4.00**
 
 - **Higher Secondary Certificate**  
-  Notre Dame College, Dhaka | GPA: **5.00/5.00**
+  Notre Dame College, Dhaka | 2017-2018
 
 - **Secondary School Certificate**  
-  Motijheel Govt. Boys’ High School | GPA: **5.00/5.00**
+  Motijheel Govt. Boys’ High School | 2006-2016
 
 ---
 
 ## 🏆 Academic Results & Achievements
-
-> I will upload my academic result sheets, certificates, and award photos here.
 
 <table>
   <tr>
