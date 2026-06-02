@@ -80,10 +80,10 @@
 
 ## 📄 Publication
 
-- **ECG-Based Mental Stress Classification Using Feature Engineering and Power Spectral Density Analysis with Machine and Deep Learning Models**  
+- **ECG-Based Stress Prediction with Power Spectral Density Features and Classification Models**  
   *M. H. Chowdhury, N. Anjum, M. R. Mim*  
   **2nd International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE, 2026**
-
+Status:Accepted.
 ---
 
 ## 🔬 Research Experience
