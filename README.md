@@ -121,32 +121,6 @@ Status:Accepted.
 
 ---
 
-## 🏆 Academic Results & Achievements
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/bsc-result.png" width="260px"><br>
-      <b>BSc Academic Result</b>
-    </td>
-    <td align="center">
-      <img src="assets/hsc-result.png" width="260px"><br>
-      <b>HSC Academic Result</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/ssc-result.png" width="260px"><br>
-      <b>SSC Academic Result</b>
-    </td>
-    <td align="center">
-      <img src="assets/poster-presentation-award.png" width="260px"><br>
-      <b>Poster Presentation Award</b>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🏅 Awards & Recognition
 
