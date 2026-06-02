@@ -1,4 +1,4 @@
-# Hey there! I'm Md Mohibbul Haque Chowdhury 👋
+# I'm Md Mohibbul Haque Chowdhury 
 
 ## 👨‍💻 About Me
 
