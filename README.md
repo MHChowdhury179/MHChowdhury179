@@ -160,11 +160,14 @@
 
 ## 💼 Professional Experience
 
-### Bangladesh Power Development Board (BPDB)  
-**Industrial Trainee — Ghorashal Power Station** | March 2023  
-- Assisted operations and maintenance teams across generation and distribution systems.
-- Observed DCS monitoring, steam turbine operation, and water treatment systems.
-- Inspected protection devices and relay configurations.
+### Bangladesh Power Development Board (BPDB)
+
+**Industrial Trainee — Ghorashal Power Station** | March 2023
+**Certificate:** [View Certificate](https://github.com/MHChowdhury179/MHChowdhury179/blob/606c9197d60177ef1f9fa1a5faff572f172e9d80/Attachment.pdf)
+
+* Assisted operations and maintenance teams across generation and distribution systems.
+* Observed DCS monitoring, steam turbine operation, and water treatment systems.
+* Inspected protection devices and relay configurations.
 
 ---
 
