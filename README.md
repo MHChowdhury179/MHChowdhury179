@@ -11,7 +11,6 @@
 📚 Passionate about academic research, teaching, engineering problem-solving, and developing simulation-based electrical system models.  
 
 <br clear="right"/>
----
 
 ## 🎯 Research Interests
 
