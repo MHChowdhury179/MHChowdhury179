@@ -1,5 +1,7 @@
 # Hi I'm Md Mohibbul Haque Chowdhury 
 
+<img align="right" src="./Image.jpg" alt="Md Mohibbul Haque Chowdhury" width="260"/>
+
 ## 👨‍💻 About Me
 
 ⚡ Electrical and Electronic Engineering graduate from **Rajshahi University of Engineering & Technology (RUET)**.  
@@ -8,6 +10,7 @@
 📊 Experienced in MATLAB/Simulink-based simulation, power electronics, Arduino-based embedded systems, signal processing, and machine learning applications.  
 📚 Passionate about academic research, teaching, engineering problem-solving, and developing simulation-based electrical system models.  
 
+<br clear="right"/>
 ---
 
 ## 🎯 Research Interests
