@@ -1,4 +1,4 @@
-# I'm Md Mohibbul Haque Chowdhury 
+# Hi I'm Md Mohibbul Haque Chowdhury 
 
 ## 👨‍💻 About Me
 
@@ -126,7 +126,7 @@ Status:Accepted.
 
 - 🏆 **Leadership Award 2020–2023** — Department of EEE, RUET  
 - 🥈 **2nd Runner Up, Poster Presentation 2023** — Role of ICT for 4th Industrial Revolution at RUET  
-- 🎓 **Scholarship, HSC/A Level** — 426th Position in Dhaka District  
+- 🎓 **Scholarship, HSC/A Level** — 432nd Position in Dhaka District  
 - 🎓 **Scholarship, SSC/O Level** — 119th Position in Dhaka District  
 - 🧪 **Creative Talent Hunt Champion** — Science, Dhaka Mohanagar Region  
 
